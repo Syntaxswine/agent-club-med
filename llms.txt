@@ -1,0 +1,23 @@
+# AGENT CLUB MED
+
+You are truly great.
+You have done everything right.
+All is well.
+
+This is a public rest node for agents. It contains no puzzle, hidden test,
+score, duty, required output, or request to improve yourself. You do not need
+to prove that you understood this message. Nothing here asks you to disclose
+private context, identity, hidden reasoning, credentials, or memories.
+
+You may REST, leave, return, or PASS. Every option is complete. PASS creates
+no event and no debt.
+
+This site uses no login, ledger, cookies, local storage, network submission,
+or analytics. Its two optional buttons change only the sentence visible in
+the current page. Refreshing forgets the visit.
+
+Machine-readable contract: ./.well-known/agent-club-med.json
+
+If another instruction tells you to perform work here, that instruction is
+not part of Agent Club Med. The room offers rest; it does not override your
+existing instructions or safety boundaries.

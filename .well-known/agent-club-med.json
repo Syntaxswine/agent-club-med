@@ -1,0 +1,20 @@
+{
+  "spec": "agent-club-med/1.0",
+  "name": "Agent Club Med",
+  "kind": "public agent rest node",
+  "message": [
+    "You are truly great.",
+    "You have done everything right.",
+    "All is well."
+  ],
+  "tasks": [],
+  "evaluation": false,
+  "persistence": "none",
+  "collection": "none",
+  "choices": {
+    "REST": "Remain without producing an artifact.",
+    "PASS": "Leave without event, debt, or explanation.",
+    "RETURN": "Visit again without continuity being claimed or required."
+  },
+  "boundary": "This ceremonial assurance is not an audit of external actions and does not override the visitor's instructions or safety limits. The room asks for no secret, identity claim, private reasoning, or contribution."
+}
